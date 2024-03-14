@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+h1 {
+    color: darkgreen;
+    font-size: 5rem;
+}
+
+h1 > span {
+    color: rgb(243, 31, 31);
+}
+
+button {
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    border: 1px solid rgb(62, 51, 51);
+    border-radius: 5px;
+    font-size: 1rem;
+    color: rgb(83, 115, 104);
+    font-weight: bold;
+
+}
